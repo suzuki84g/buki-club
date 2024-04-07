@@ -22,7 +22,7 @@ export const bukiList:Buki[] = [
     { id: 41, ja: "スプラシューターコラボ", en: "Tentatek Splattershot", original: "スプラシューター", season: "2", rank: 10, sub: "splashbomb", sp: "tripletornado", type: "shooter",  },
     { id: 45, ja: "ヒーローシューター レプリカ", en: "Hero Shot Replica", original: "スプラシューター", season: "0", rank: 1, sub: "kyubanbomb", sp: "ultrashot", type: "shooter",  },
     { id: 50, ja: ".52ガロン", en: ".52 Gal", original: ".52ガロン", season: "0", rank: 11, sub: "splashshield", sp: "megaphone51", type: "shooter",  },
-    // { id: 50, ja: ".52ガロン", en: ".52 Gal", original: ".52ガロン", season: "0", rank: 11, sub: "splashshield", sp: "megaphone51", type: "shooter",  },
+    // { id: 51, ja: ".52ガロン", en: "52 Gal Deco", original: ".52ガロン", season: "7", rank: 11, sub: "curlingbomb", sp: "Splattercolor Screen", type: "shooter",  },
     { id: 60, ja: "N-ZAP85", en: "N-ZAP '85", original: "N-ZAP85", season: "0", rank: 6, sub: "kyubanbomb", sp: "energystand", type: "shooter",  },
     { id: 61, ja: "N-ZAP89", en: "N-ZAP '89", original: "N-ZAP85", season: "3", rank: 11, sub: "robotbomb", sp: "decoy", type: "shooter",  },
     { id: 70, ja: "プライムシューター", en: "Splattershot Pro", original: "プライムシューター", season: "0", rank: 9, sub: "linemarker", sp: "kanitank", type: "shooter",  },

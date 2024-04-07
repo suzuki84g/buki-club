@@ -3,6 +3,7 @@
 ## ブキ追加
 
 <https://wikiwiki.jp/splatoon3mix/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4>
+<https://splatoonwiki.org/wiki/Weapon>
 
 ```json
 { id: 0, ja: "ボールドマーカー", en: "Sploosh-o-matic", original: "ボールドマーカー", season: "0", rank: 9, sub: "curlingbomb", sp: "ultrahanko", type: "shooter",  }
